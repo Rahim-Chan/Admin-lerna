@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.40 (2021-11-05)
+
+
+### Bug Fixes
+
+* 测试 ([d75ef1a](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/d75ef1ac853db3a52d432db320ba414e9a21a643))
+
+
+
+
+
 ## 0.0.39 (2021-11-05)
 
 

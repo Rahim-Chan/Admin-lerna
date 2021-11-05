@@ -1,6 +1,6 @@
 {
   "name": "admin-utils",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "两个",
   "author": "Rixi Chen <rixi.chen@shopee.com>",
   "homepage": "test",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@shopee/banking-portal-jsbridge": "^0.0.39",
+    "@shopee/banking-portal-jsbridge": "^0.0.40",
     "lodash": "^4.17.21"
   }
 }
