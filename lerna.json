@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "changelog": {
+    "labels": {
+      "feature": "New Feature",
+      "bug": "Bug Fix"
+    }
+  },
+  "npmClient": "yarn"
+}

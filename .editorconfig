@@ -1,0 +1,16 @@
+# http://editorconfig.org
+root = true
+
+#说明
+#设置文件编码为UTF-8;
+##在保存时删除尾部的空白字符
+##在文件结尾添加
+[*]
+indent_style = space
+indent_size = 2
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
