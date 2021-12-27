@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.14](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-ui-component@1.2.13...admin-ui-component@1.2.14) (2021-12-27)
+
+
+### Bug Fixes
+
+* test ([a1b219c](https://github.com/Rahim-Chan/Admin-lerna/commit/a1b219cb207e3841a175af7c4d3381e9565ce1a7))
+
+
+
+
+
 ## 1.2.13 (2021-11-05)
 
 
