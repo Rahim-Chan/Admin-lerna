@@ -44,5 +44,6 @@
     "father-build": "^1.19.4",
     "nodemon": "^2.0.7",
     "typescript": "^4.2.4"
-  }
+  },
+  "gitHead": "c698027b5c3cc845da1d68ea1100d8129e1f8589"
 }

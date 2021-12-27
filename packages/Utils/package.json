@@ -19,5 +19,6 @@
   "dependencies": {
     "@shopee/banking-portal-jsbridge": "^0.0.40",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "c698027b5c3cc845da1d68ea1100d8129e1f8589"
 }
