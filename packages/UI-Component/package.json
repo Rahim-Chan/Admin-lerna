@@ -1,6 +1,6 @@
 {
   "name": "admin-ui-component",
-  "version": "1.2.15",
+  "version": "1.2.16",
   "description": "改pa22k就会影响其222他",
   "author": "Rixi Chen <rixi.chen@shopee.com>",
   "homepage": "nani",
@@ -20,8 +20,8 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@shopee/banking-portal-jsbridge": "^0.0.40",
-    "admin-utils": "^1.2.10",
+    "@shopee/banking-portal-jsbridge": "^0.0.41",
+    "admin-utils": "^1.2.11",
     "lodash": "^4.17.21"
   },
   "gitHead": "c698027b5c3cc845da1d68ea1100d8129e1f8589"
