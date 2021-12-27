@@ -2,6 +2,11 @@
   "packages": [
     "packages/*"
   ],
+  "command": {
+    "version": {
+      "message": "chore(release): publish %s"
+    }
+  },
   "version": "independent",
   "changelog": {
     "labels": {
@@ -9,5 +14,6 @@
       "bug": "Bug Fix"
     }
   },
+  "ignoreChanges": ["**/__fixtures__/**", "**/__tests__/**", "**/*.md"],
   "npmClient": "yarn"
 }
