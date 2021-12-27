@@ -9,7 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "lerna run build",
     "publish": "lerna publish from-package --yes",
-    "version": "lerna version --conventional-commits --yes"
+    "version": "lerna version --conventional-commits --yes",
+    "pre-release": "lerna version --conventional-commits --conventional-prerelease --yes"
   },
   "author": "",
   "license": "ISC",
