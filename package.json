@@ -1,7 +1,7 @@
 {
   "name": "admin-monorepo",
   "version": "1.0.0",
-  "description": "12221",
+  "description": "1222221",
   "main": "index.js",
   "scripts": {
     "bootstrap": "lerna bootstrap",
