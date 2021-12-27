@@ -10,7 +10,8 @@
     "build": "lerna run build",
     "publish": "lerna publish from-package --yes",
     "version": "lerna version --conventional-commits --yes",
-    "pre-release": "lerna version --conventional-commits --conventional-prerelease --yes"
+    "pre-release": "lerna version --conventional-commits --conventional-prerelease --yes",
+    "graduate": "lerna version --conventional-commits --conventional-graduate"
   },
   "author": "",
   "license": "ISC",
