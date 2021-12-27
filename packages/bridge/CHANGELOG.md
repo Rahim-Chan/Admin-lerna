@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.42](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/compare/@shopee/banking-portal-jsbridge@0.0.40...@shopee/banking-portal-jsbridge@0.0.42) (2021-12-27)
+
+
+### Bug Fixes
+
+* df ([971dab2](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/971dab2bccafa0d3dd896bf25fcb12e758d254da))
+* fad ([cf9408b](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/cf9408b4660dbdc7e42e0d2455d720abc8785aa5))
+
+
+
+
+
 ## 0.0.40 (2021-11-05)
 
 
