@@ -1,6 +1,6 @@
 {
   "name": "admin-ui-component",
-  "version": "1.3.4-alaph.0",
+  "version": "1.3.4-alaph.1",
   "description": "d22222222221222dd2",
   "author": "Rixi Chen <rixi.chen@shopee.com>",
   "homepage": "nani",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@shopee/banking-portal-jsbridge": "^0.0.42",
-    "admin-utils": "^1.6.0-alaph.0",
+    "admin-utils": "^1.6.0-alaph.1",
     "lodash": "^4.17.21"
   },
   "gitHead": "c698027b5c3cc845da1d68ea1100d8129e1f8589"
