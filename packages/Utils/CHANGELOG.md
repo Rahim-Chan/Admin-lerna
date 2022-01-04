@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0-alaph.1](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-utils@1.4.0-alaph.0...admin-utils@1.4.0-alaph.1) (2022-01-04)
+
+
+### Features
+
+* preminor ([71f0c26](https://github.com/Rahim-Chan/Admin-lerna/commit/71f0c26c4ec27c2e36e0d0da133ab0d938de80a2))
+
+
+
+
+
 # [1.4.0-alaph.0](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-utils@1.3.1...admin-utils@1.4.0-alaph.0) (2022-01-04)
 
 
