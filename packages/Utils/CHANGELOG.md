@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-utils@1.4.0...admin-utils@1.5.0) (2022-01-04)
+
+
+### Features
+
+* 2 ([f13f6b3](https://github.com/Rahim-Chan/Admin-lerna/commit/f13f6b3c1bfa2e26b7219c1fe1dc3c1f698b1512))
+
+
+
+
+
 # [1.4.0](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-utils@1.4.0-alaph.1...admin-utils@1.4.0) (2022-01-04)
 
 
