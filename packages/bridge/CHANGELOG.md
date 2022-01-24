@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.43-alpha.109](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/compare/@shopee/banking-portal-jsbridge@0.0.42...@shopee/banking-portal-jsbridge@0.0.43-alpha.109) (2022-01-24)
+
+
+### Bug Fixes
+
+* 1 ([2b56d4c](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/2b56d4ca21da9ddfaf615ee0e2d78c46eab60e8b))
+* 1 ([e8e0f1f](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/e8e0f1fcff7421d75b2e54d6dd400eb881e59eb4))
+* 1 ([2f0439c](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/2f0439c7ad2106c907f387a7571e891430d19d66))
+* 1 ([258c7a4](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/commit/258c7a46338a5008f62d581fb9f5f671b6a62cd6))
+
+
+
+
+
 ## [0.0.42](https://gitlab.bke.shopee.io/sgdb/core-banking/banking-portal/fe/banking-portal-bridge/compare/@shopee/banking-portal-jsbridge@0.0.40...@shopee/banking-portal-jsbridge@0.0.42) (2021-12-27)
 
 

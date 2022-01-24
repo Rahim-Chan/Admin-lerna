@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.6-alpha.3](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-ui-component@1.3.5...admin-ui-component@1.3.6-alpha.3) (2022-01-24)
+
+
+### Bug Fixes
+
+* 1 ([2b56d4c](https://github.com/Rahim-Chan/Admin-lerna/commit/2b56d4ca21da9ddfaf615ee0e2d78c46eab60e8b))
+* 1 ([e8e0f1f](https://github.com/Rahim-Chan/Admin-lerna/commit/e8e0f1fcff7421d75b2e54d6dd400eb881e59eb4))
+* 1 ([2f0439c](https://github.com/Rahim-Chan/Admin-lerna/commit/2f0439c7ad2106c907f387a7571e891430d19d66))
+* 1 ([258c7a4](https://github.com/Rahim-Chan/Admin-lerna/commit/258c7a46338a5008f62d581fb9f5f671b6a62cd6))
+
+
+
+
+
 ## [1.3.5-alpha.2](https://github.com/Rahim-Chan/Admin-lerna/compare/admin-ui-component@1.3.5-alpha.1...admin-ui-component@1.3.5-alpha.2) (2022-01-12)
 
 
