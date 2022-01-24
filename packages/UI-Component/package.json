@@ -1,7 +1,7 @@
 {
   "name": "admin-ui-component",
   "version": "1.3.5",
-  "description": "x",
+  "description": "xdd",
   "author": "Rixi Chen <rixi.chen@shopee.com>",
   "homepage": "nani",
   "license": "ISC",
@@ -24,5 +24,5 @@
     "admin-utils": "^1.7.0-alpha.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "c698027b5c3cc845da1d68ea1100d8129e1f8589"
+  "gitHead": "ebfa529cd1c378cdf08d183daaa69cbe33a0fea5"
 }
