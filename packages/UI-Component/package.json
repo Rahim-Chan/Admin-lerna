@@ -1,6 +1,6 @@
 {
   "name": "admin-ui-component",
-  "version": "1.3.5",
+  "version": "1.3.6-alpha.0+258c7a4",
   "description": "xdd",
   "author": "Rixi Chen <rixi.chen@shopee.com>",
   "homepage": "nani",
@@ -20,9 +20,9 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@shopee/banking-portal-jsbridge": "^0.0.42",
-    "admin-utils": "^1.7.0-alpha.0",
+    "@shopee/banking-portal-jsbridge": "^0.0.43-alpha.106+258c7a4",
+    "admin-utils": "^1.7.0-alpha.6+258c7a4",
     "lodash": "^4.17.21"
   },
-  "gitHead": "ebfa529cd1c378cdf08d183daaa69cbe33a0fea5"
+  "gitHead": "258c7a46338a5008f62d581fb9f5f671b6a62cd6"
 }

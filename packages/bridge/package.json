@@ -1,6 +1,6 @@
 {
   "name": "@shopee/banking-portal-jsbridge",
-  "version": "0.0.42",
+  "version": "0.0.43-alpha.106+258c7a4",
   "dependencies": {
     "events": "^3.3.0",
     "lodash": "^4.17.21"
@@ -45,5 +45,5 @@
     "nodemon": "^2.0.7",
     "typescript": "^4.2.4"
   },
-  "gitHead": "ebfa529cd1c378cdf08d183daaa69cbe33a0fea5"
+  "gitHead": "258c7a46338a5008f62d581fb9f5f671b6a62cd6"
 }

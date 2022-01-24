@@ -1,6 +1,6 @@
 {
   "name": "admin-utils",
-  "version": "1.7.0-alpha.0",
+  "version": "1.7.0-alpha.6+258c7a4",
   "description": "fe22222222222222222a222222t1",
   "author": "Rixi Chen <rixi.chen@shopee.com>",
   "homepage": "test",
@@ -17,8 +17,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@shopee/banking-portal-jsbridge": "^0.0.42",
+    "@shopee/banking-portal-jsbridge": "^0.0.43-alpha.106+258c7a4",
     "lodash": "^4.17.21"
   },
-  "gitHead": "ebfa529cd1c378cdf08d183daaa69cbe33a0fea5"
+  "gitHead": "258c7a46338a5008f62d581fb9f5f671b6a62cd6"
 }
